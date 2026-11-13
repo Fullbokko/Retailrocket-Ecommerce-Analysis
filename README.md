@@ -7,7 +7,7 @@
 
 **▶ [互動式 Dashboard（Tableau Public）](https://public.tableau.com/views/retailrocket-ecommerce-analysis/1)**
 
-![Dashboard](images/dashboard.png)
+<img src="images/retailrocket-ecommerce-analysis.png" width="800" alt="Dashboard">
 
 ## 我想回答的問題
 
